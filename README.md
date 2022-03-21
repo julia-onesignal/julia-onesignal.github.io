@@ -1,4 +1,3 @@
-# julia-onesignal.github.io
 <html lang= "en">
 
 <head>
@@ -12,7 +11,7 @@
   });
 </script>
 <meta charset="UTF-8">
-<meta name="viewport"
+
 <title>Welcome</title>
 </head>
 
