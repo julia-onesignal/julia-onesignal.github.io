@@ -2,6 +2,15 @@
 <html lang= "en">
 
 <head>
+	<script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async=""></script>
+<script>
+  window.OneSignal = window.OneSignal || [];
+  OneSignal.push(function() {
+    OneSignal.init({
+      appId: "6ab7a906-4f1c-4551-8c87-436fb2ade461",
+    });
+  });
+</script>
 <meta charset="UTF-8">
 <meta name="viewport"
 <title>Welcome</title>
